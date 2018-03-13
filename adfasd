@@ -1,0 +1,55 @@
+* [33mcommit 1c995753ad0723f459dc066f59c88e8ed58cdae6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: zhuxiangye <595449323@qq.com>
+[31m|[m Date:   Tue Mar 13 18:21:00 2018 +0800
+[31m|[m 
+[31m|[m     '解决冲突'
+[31m|[m   
+*   [33mcommit 78b0a2dd3339017b6e7418649973de33338704d8[m
+[32m|[m[33m\[m  Merge: 29605ad a45f19e
+[32m|[m [33m|[m Author: zhuxiangye <595449323@qq.com>
+[32m|[m [33m|[m Date:   Tue Mar 13 18:19:28 2018 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     '解决冲突'
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit a45f19e845e3d351651689230c947390cc363f06[m
+[32m|[m [33m|[m Author: zhuxiangye <595449323@qq.com>
+[32m|[m [33m|[m Date:   Tue Mar 13 18:02:59 2018 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     'second-branch提交文件'
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 29605adbcd3877583cb2a8dbb71b97be1bd1b051[m
+[33m|[m[33m/[m  Author: zhuxiangye <595449323@qq.com>
+[33m|[m   Date:   Tue Mar 13 17:59:45 2018 +0800
+[33m|[m   
+[33m|[m       '主分支提交'
+[33m|[m 
+* [33mcommit 91815c70d08051e87fb96cf4e1b54e44c348c58f[m[33m ([m[1;31morigin/master[m[33m)[m
+[33m|[m Author: zhuxiangye <595449323@qq.com>
+[33m|[m Date:   Tue Mar 13 17:18:46 2018 +0800
+[33m|[m 
+[33m|[m     'readme.md提交'
+[33m|[m 
+* [33mcommit f093ce8d5da46d85bb877b98d01e7e5710eae04b[m[33m ([m[1;32mlogin[m[33m)[m
+[33m|[m Author: zhuxiangye <595449323@qq.com>
+[33m|[m Date:   Tue Mar 13 16:11:16 2018 +0800
+[33m|[m 
+[33m|[m     '好'
+[33m|[m 
+* [33mcommit b3ba9e5bc1cc2071aa930f2b9083a24f40626c6d[m
+[33m|[m Author: zhuxiangye <595449323@qq.com>
+[33m|[m Date:   Tue Mar 13 16:06:07 2018 +0800
+[33m|[m 
+[33m|[m     '好'
+[33m|[m 
+* [33mcommit 1e8a61105338c0e7a150608771723760be4ad3ef[m
+[33m|[m Author: zhuxiangye <595449323@qq.com>
+[33m|[m Date:   Mon Mar 12 19:30:35 2018 +0800
+[33m|[m 
+[33m|[m     'asdf'
+[33m|[m 
+* [33mcommit 6eddd4028159f82cadbbfa8290d90b9af7baa570[m
+  Author: zhuxiangye <595449323@qq.com>
+  Date:   Mon Mar 12 19:14:27 2018 +0800
+  
+      first commmit # Please enter the commit message for your changes. Lines
+      starting
